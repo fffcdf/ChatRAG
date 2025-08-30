@@ -13,5 +13,6 @@ RAG с UI через Streamlit, а также Ollama для локального
 Для запуска Streamlit необходимо ввести в терминал ```streamlit run st.py```.      
 Для запуска API необходимо ввести в терминал```uvicorn app:api --reload``` .   
 
-Preview:
+
+
 <img width="778" height="575" alt="image" src="https://github.com/user-attachments/assets/0ad4cbd2-4e88-41dc-8c11-0efd738b8107" />
