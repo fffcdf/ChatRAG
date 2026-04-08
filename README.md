@@ -1,12 +1,4 @@
 # ChatRAG
-Структура проекта:  
-● UI - Streamlit.  
-● LLM - Ollama [llama3.1:8b](https://ollama.com/library/llama3.1).  
-● Agents - LangChain.  
-● API - FastAPI.  
-● VectorDB - Chroma.  
-● Langauge - English.  
-
 Реализованы следующие функции:  
 1. Быстрый поиск информации среди отчетов компании.  
 2. Выполнение различных подсчётов, связанных с документами.  
